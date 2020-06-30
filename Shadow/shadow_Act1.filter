@@ -2,6 +2,22 @@
 # based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
 
 Show
+	ItemLevel <= 10
+	Height <= 4
+	Width = 1
+	SetTextColor 1 1 1
+	SetBackgroundColor 102 178 255 220
+	SetBorderColor 1 1 1
+
+Show
+	ItemLevel <= 10
+	Height = 2
+	Width = 2
+	SetTextColor 1 1 1
+	SetBackgroundColor 102 178 255 220
+	SetBorderColor 1 1 1
+
+Show
 	Class "Currency"
 	SetFontSize 36
 	SetTextColor 1 1 1
@@ -32,7 +48,7 @@ Show
 	SetTextColor 1 1 1
 	SetBackgroundColor 210 0 220 170
 	SetBorderColor 1 1 1
-  
+
 Show
     Quality 20
     SetTextColor 0 0 255
