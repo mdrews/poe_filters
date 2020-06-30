@@ -40,4 +40,10 @@ Show
     SetTextColor 255 255 255
     SetFontSize 50
 
+Show
+	Class "Rings" "Amulets" "Belts"
+	SetTextColor 1 1 1
+	SetBackgroundColor 135 135 254 220
+	SetBorderColor 99 234 106
+
 Hide
