@@ -1,18 +1,18 @@
-# You can add comments in filters by placing them behind a # on a new line.
-# This is a comment - The client will ignore this.
-Hide
-    BaseType Flask
-    Quality < 10
+# Filter for Shadow Act 1
+# based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
+
+Show
+	Class "Currency"
+	SetFontSize 36
+	SetTextColor 1 1 1
+	SetBackgroundColor 170 158 129
+	SetBorderColor 1 1 1
+
 Show
     BaseType Flask
 Show
     Rarity >= Rare
-Show
-    DropLevel >= 70
-Hide
-    BaseType "Scroll of Wisdom"
-Show
-    Class Map Currency
+    SetFontSize 50
 Show
     Class Gem
     PlayAlertSound 4 75
@@ -20,9 +20,16 @@ Show
     Quality 20
     SetTextColor 0 0 255
 Show
-    Sockets 6
-    SetBorderColor 255 0 0 
-Show
-    LinkedSockets >= 5
+    LinkedSockets >= 3
+    SocketGroup = BBB
     SetFontSize 45
-Hide
+
+Show
+    LinkedSockets >= 3
+    SocketGroup = BBG
+    SetFontSize 45
+
+Show
+    LinkedSockets >= 3
+    SocketGroup = BGG
+    SetFontSize 45
