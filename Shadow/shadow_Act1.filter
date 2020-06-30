@@ -17,7 +17,7 @@ Show
 Show
     Rarity = Unique
     SetFontSize 55
-    PlayAlertSound ShExalted 300
+    PlayAlertSound 2 300
 Show
     Class Gem
     PlayAlertSound 4 75
