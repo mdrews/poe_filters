@@ -22,14 +22,22 @@ Show
 Show
     LinkedSockets >= 3
     SocketGroup = BBB
-    SetFontSize 45
+    SetBackgroundColor 0 45 140
+    SetTextColor 255 255 255
+    SetFontSize 50
 
 Show
     LinkedSockets >= 3
     SocketGroup = BBG
-    SetFontSize 45
+    SetBackgroundColor 0 90 175
+    SetTextColor 255 255 255
+    SetFontSize 50
 
 Show
     LinkedSockets >= 3
     SocketGroup = BGG
-    SetFontSize 45
+    SetBackgroundColor 0 175 90
+    SetTextColor 255 255 255
+    SetFontSize 50
+
+Hide
