@@ -10,9 +10,14 @@ Show
 
 Show
     BaseType Flask
+
 Show
-    Rarity >= Rare
+    Rarity = Rare
     SetFontSize 50
+Show
+    Rarity = Unique
+    SetFontSize 55
+    PlayAlertSound ShExalted 300
 Show
     Class Gem
     PlayAlertSound 4 75
