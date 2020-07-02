@@ -2,20 +2,18 @@
 # based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
 
 Show
-	ItemLevel <= 10
+	ItemLevel <= 14
 	Height <= 4
 	Width = 1
-	SetTextColor 1 1 1
-	SetBackgroundColor 102 178 255 220
-	SetBorderColor 1 1 1
 
 Show
-	ItemLevel <= 10
+	ItemLevel <= 14
 	Height = 2
 	Width = 2
-	SetTextColor 1 1 1
-	SetBackgroundColor 102 178 255 220
-	SetBorderColor 1 1 1
+
+Show
+	ItemLevel <= 14
+  Rarity >= Magic
 
 Show
 	Class "Currency"
