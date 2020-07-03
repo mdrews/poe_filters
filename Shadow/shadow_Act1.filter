@@ -2,15 +2,9 @@
 # based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
 
 Show
-	ItemLevel <= 14
-	Height <= 4
-	Width = 1
-
-Show
-	ItemLevel <= 14
-	Height = 2
-	Width = 2
-
+    Rarity = Unique
+    SetFontSize 55
+    PlayAlertSound 2 300
 Show
 	ItemLevel <= 14
   Rarity >= Magic
@@ -36,10 +30,7 @@ Show
 Show
     Rarity = Rare
     SetFontSize 50
-Show
-    Rarity = Unique
-    SetFontSize 55
-    PlayAlertSound 2 300
+
 
 Show
 	Class "Gem"
