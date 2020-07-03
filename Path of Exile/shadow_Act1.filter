@@ -5,6 +5,7 @@ Show
   Rarity = Unique
   MinimapIcon 0 Orange Star
   PlayAlertSound 1 300
+  PlayEffect Brown
   SetBorderColor 150 150 150
   SetFontSize 45
   SetTextColor 200 200 200
@@ -50,26 +51,32 @@ Show
 
 Show
     LinkedSockets >= 3
+    MinimapIcon 2 Blue Square
+    PlayEffect Blue
     SocketGroup = BBB
     SetBackgroundColor 0 45 140
     SetTextColor 255 255 255
-    SetFontSize 50
+    SetFontSize 40
     PlayAlertSound 1 250
 
 Show
     LinkedSockets >= 3
+    MinimapIcon 2 Blue Square
+    PlayEffect Blue
     SocketGroup = BBG
     SetBackgroundColor 0 90 175
     SetTextColor 255 255 255
-    SetFontSize 50
+    SetFontSize 40
     PlayAlertSound 1 250
 
 Show
     LinkedSockets >= 3
+    MinimapIcon 2 Blue Square
+    PlayEffect Blue
     SocketGroup = BGG
     SetBackgroundColor 0 175 90
     SetTextColor 255 255 255
-    SetFontSize 50
+    SetFontSize 40
     PlayAlertSound 1 250
 
 Hide
