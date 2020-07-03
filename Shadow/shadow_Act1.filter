@@ -28,7 +28,7 @@ Show
 	SetTextColor 1 1 1
 	SetBackgroundColor 99 234 106 200
 	SetBorderColor 1 1 1
-	PlayAlertSound 1 175
+	PlayAlertSound 2 175
 
 Show
     BaseType Flask
