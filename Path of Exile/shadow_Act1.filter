@@ -2,13 +2,14 @@
 # based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
 
 Show
-    Rarity = Unique
-    SetFontSize 55
-    PlayAlertSound 2 300
-Show
-	ItemLevel <= 14
-  Rarity >= Magic
-
+  Rarity = Unique
+  MinimapIcon 0 Orange Star
+  PlayAlertSound 1 300
+  SetBorderColor 150 150 150
+  SetFontSize 45
+  SetTextColor 200 200 200
+  SetBackgroundColor 100 30 15
+    
 Show
 	Class "Currency"
 	SetFontSize 36
@@ -28,15 +29,11 @@ Show
     BaseType Flask
 
 Show
-    Rarity = Rare
-    SetFontSize 50
-
-
-Show
 	Class "Gem"
 	SetTextColor 1 1 1
 	SetBackgroundColor 210 0 220 170
 	SetBorderColor 1 1 1
+    PlayAlertSound 6 300
 
 Show
     Quality 20
