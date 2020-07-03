@@ -26,18 +26,28 @@ Show
 	PlayAlertSound 2 175
 
 Show
-    BaseType Flask
+  BaseType Flask
+  Class "Life Flask"
+  SetBackgroundColor 160 0 5 200
+  SetBorderColor 1 1 1
 
 Show
 	Class "Gem"
 	SetTextColor 1 1 1
 	SetBackgroundColor 210 0 220 170
 	SetBorderColor 1 1 1
-    PlayAlertSound 6 300
+  PlayAlertSound 6 300
+
+Show
+	Class "Rings" "Amulets" "Belts"
+	SetTextColor 10 10 10
+	SetBackgroundColor 24 75 80 220
+	SetBorderColor 10 10 10
 
 Show
     Quality 20
     SetTextColor 0 0 255
+
 Show
     LinkedSockets >= 3
     SocketGroup = BBB
@@ -61,11 +71,5 @@ Show
     SetTextColor 255 255 255
     SetFontSize 50
     PlayAlertSound 1 250
-
-Show
-	Class "Rings" "Amulets" "Belts"
-	SetTextColor 1 1 1
-	SetBackgroundColor 135 135 254 220
-	SetBorderColor 99 234 106
 
 Hide
