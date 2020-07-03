@@ -10,7 +10,7 @@ Show
   SetFontSize 45
   SetTextColor 200 200 200
   SetBackgroundColor 100 30 15
-    
+
 Show
 	Class "Currency"
 	SetFontSize 36
@@ -26,10 +26,26 @@ Show
 	SetBorderColor 1 1 1
 	PlayAlertSound 2 175
 
+
+###
+### Flasks
+###
+
 Show
   BaseType Flask
   Class "Life Flask"
-  SetBackgroundColor 160 0 5 200
+  SetBackgroundColor 84 0 5 200
+  SetBorderColor 1 1 1
+Show
+  BaseType Flask
+  Class "Mana Flask"
+  SetBackgroundColor 15 4 89 200
+  SetBorderColor 1 1 1
+Show
+  BaseType Flask
+  Class "Utility Flask"
+  PlayAlertSound 2 175
+  SetBackgroundColor 77 70 117 200
   SetBorderColor 1 1 1
 
 Show
@@ -46,37 +62,37 @@ Show
 	SetBorderColor 10 10 10
 
 Show
-    Quality 20
-    SetTextColor 0 0 255
+  Quality 20
+  SetTextColor 0 0 255
 
 Show
-    LinkedSockets >= 3
-    MinimapIcon 2 Blue Square
-    PlayEffect Blue
-    SocketGroup = BBB
-    SetBackgroundColor 0 45 140
-    SetTextColor 255 255 255
-    SetFontSize 40
-    PlayAlertSound 1 250
+  LinkedSockets >= 3
+  MinimapIcon 2 Blue Square
+  PlayEffect Blue
+  SocketGroup = BBB
+  SetBackgroundColor 0 45 140
+  SetTextColor 255 255 255
+  SetFontSize 40
+  PlayAlertSound 1 250
 
 Show
-    LinkedSockets >= 3
-    MinimapIcon 2 Blue Square
-    PlayEffect Blue
-    SocketGroup = BBG
-    SetBackgroundColor 0 90 175
-    SetTextColor 255 255 255
-    SetFontSize 40
-    PlayAlertSound 1 250
+  LinkedSockets >= 3
+  MinimapIcon 2 Blue Square
+  PlayEffect Blue
+  SocketGroup = BBG
+  SetBackgroundColor 0 90 175
+  SetTextColor 255 255 255
+  SetFontSize 40
+  PlayAlertSound 1 250
 
 Show
-    LinkedSockets >= 3
-    MinimapIcon 2 Blue Square
-    PlayEffect Blue
-    SocketGroup = BGG
-    SetBackgroundColor 0 175 90
-    SetTextColor 255 255 255
-    SetFontSize 40
-    PlayAlertSound 1 250
+  LinkedSockets >= 3
+  MinimapIcon 2 Blue Square
+  PlayEffect Blue
+  SocketGroup = BGG
+  SetBackgroundColor 0 175 90
+  SetTextColor 255 255 255
+  SetFontSize 40
+  PlayAlertSound 1 250
 
 Hide
