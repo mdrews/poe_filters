@@ -94,5 +94,16 @@ Show
   SetTextColor 255 255 255
   SetFontSize 40
   PlayAlertSound 1 250
+Show
+  Rarity >= Magic
+  Width = 1
+  SetBackgroundColor 1 1 1
+  SetBorderColor 153 0 0
+Show
+  Rarity >= Magic
+  Width = 2
+  Height = 2
+  SetBackgroundColor 1 1 1
+  SetBorderColor 153 0 0
 
 Hide
