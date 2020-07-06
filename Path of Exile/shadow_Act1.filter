@@ -44,6 +44,7 @@ Show
 Show
   BaseType Flask
   Class "Utility Flask"
+  MinimapIcon 1 Grey Triangle
   PlayAlertSound 2 175
   SetBackgroundColor 77 70 117 200
   SetBorderColor 1 1 1
@@ -98,12 +99,12 @@ Show
   Rarity >= Magic
   Width = 1
   SetBackgroundColor 1 1 1
-  SetBorderColor 153 0 0
+  SetBorderColor 153 0 76
 Show
   Rarity >= Magic
   Width = 2
   Height = 2
   SetBackgroundColor 1 1 1
-  SetBorderColor 153 0 0
+  SetBorderColor 153 0 76
 
 Hide
