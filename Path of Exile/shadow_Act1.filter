@@ -33,6 +33,13 @@ Show
 
 Show
   BaseType Flask
+  Class "Utility Flask"
+  MinimapIcon 1 Grey Triangle
+  PlayAlertSound 2 175
+  SetBackgroundColor 77 70 117 200
+  SetBorderColor 1 1 1
+Show
+  BaseType Flask
   Class "Life Flask"
   SetBackgroundColor 84 0 5 200
   SetBorderColor 1 1 1
@@ -40,13 +47,6 @@ Show
   BaseType Flask
   Class "Mana Flask"
   SetBackgroundColor 15 4 89 200
-  SetBorderColor 1 1 1
-Show
-  BaseType Flask
-  Class "Utility Flask"
-  MinimapIcon 1 Grey Triangle
-  PlayAlertSound 2 175
-  SetBackgroundColor 77 70 117 200
   SetBorderColor 1 1 1
 
 Show
