@@ -48,11 +48,22 @@ Show
   Class "Mana Flask"
   SetBackgroundColor 15 4 89 200
   SetBorderColor 1 1 1
+Show
+  BaseType Flask
+  SetBackgroundColor 15 4 89 200
+  SetBorderColor 1 1 1
 
 Show
 	Class "Gem"
 	SetTextColor 1 1 1
 	SetBackgroundColor 210 0 220 170
+	SetBorderColor 1 1 1
+  PlayAlertSound 6 300
+Show 
+  Class "Gem"
+  BaseType "Empower" "Enhance" "Portal" "Detonate Mines"
+  MinimapIcon 0 Purple Diamond
+  SetBackgroundColor 210 0 220 170
 	SetBorderColor 1 1 1
   PlayAlertSound 6 300
 
