@@ -117,5 +117,8 @@ Show
   Height = 2
   SetBackgroundColor 1 1 1
   SetBorderColor 153 0 76
-
+Show
+  Rarity = Rare
+  SetBackgroundColor 1 1 1
+  SetBorderColor 153 0 76
 Hide
