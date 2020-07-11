@@ -13,6 +13,14 @@ Show
 
 # Currency
 Show
+	Class "Exalted Orb"
+  MinimapIcon 1 Orange Circle
+  PlayAlertSound 2 175
+	SetFontSize 50
+	SetTextColor 1 1 1
+	SetBackgroundColor 170 158 129
+	SetBorderColor 1 1 1
+Show
 	Class "Currency"
 	SetFontSize 36
 	SetTextColor 1 1 1
