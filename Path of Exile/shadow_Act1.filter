@@ -87,6 +87,17 @@ Show
   SetTextColor 0 0 255
 
 Show
+  Class Weapon
+  BaseType "Wand"
+  LinkedSockets = 3
+  MinimapIcon 2 Blue Square
+  PlayEffect Blue
+  SetBackgroundColor 0 45 140
+  SetTextColor 255 255 255
+  SetFontSize 40
+  PlayAlertSound 1 250
+
+Show
   LinkedSockets >= 3
   MinimapIcon 2 Blue Square
   PlayEffect Blue
@@ -126,6 +137,7 @@ Show
   Height = 2
   SetBackgroundColor 1 1 1
   SetBorderColor 153 0 76
+
 Show
   Rarity = Rare
   SetBackgroundColor 1 1 1
