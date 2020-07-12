@@ -98,6 +98,13 @@ Show
   PlayAlertSound 1 250
 
 Show
+  Class Weapon
+  BaseType "Wand"
+  SetBackgroundColor 1 1 1
+  SetBorderColor 75 0 15
+  SetTextColor 255 255 255
+
+Show
   LinkedSockets >= 3
   MinimapIcon 2 Blue Square
   PlayEffect Blue
