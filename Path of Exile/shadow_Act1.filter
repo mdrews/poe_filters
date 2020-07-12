@@ -13,7 +13,7 @@ Show
 
 # Currency
 Show
-	Class "Exalted Orb"
+	BaseType "Chaos Orb" "Exalted Orb"
   MinimapIcon 1 Orange Circle
   PlayAlertSound 2 175
 	SetFontSize 50
