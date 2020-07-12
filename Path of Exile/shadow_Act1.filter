@@ -87,8 +87,7 @@ Show
   SetTextColor 0 0 255
 
 Show
-  Class Weapon
-  BaseType "Wand"
+  Class Wands
   LinkedSockets = 3
   MinimapIcon 2 Blue Square
   PlayEffect Blue
