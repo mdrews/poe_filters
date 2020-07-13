@@ -103,7 +103,7 @@ Show
   SetTextColor 255 255 255
 
 Show
-  Class Armor
+  Class Armour
   LinkedSockets >= 3
   MinimapIcon 2 Blue Square
   PlayEffect Blue
@@ -114,7 +114,7 @@ Show
   PlayAlertSound 1 250
 
 Show
-  Class Armor
+  Class Armour
   LinkedSockets >= 3
   MinimapIcon 2 Blue Square
   PlayEffect Blue
@@ -125,7 +125,7 @@ Show
   PlayAlertSound 1 250
 
 Show
-  Class Armor
+  Class Armour
   LinkedSockets >= 3
   MinimapIcon 2 Blue Square
   PlayEffect Blue
