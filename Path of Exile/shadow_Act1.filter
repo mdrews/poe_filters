@@ -13,7 +13,7 @@ Show
 
 # Currency
 Show
-	BaseType "Chaos Orb" "Exalted Orb" "Orb of Regret"
+	BaseType "Chaos Orb" "Exalted Orb" "Orb of Regret" "Orb of Scouring"
   MinimapIcon 1 Orange Circle
   PlayAlertSound 2 175
 	SetFontSize 50
