@@ -35,6 +35,9 @@ Show
 	SetBorderColor 1 1 1
 	PlayAlertSound 2 175
 
+###
+### Maps
+###
 Show
 	Class Maps
 	SetFontSize 36
