@@ -11,7 +11,9 @@ Show
   SetTextColor 200 200 200
   SetBackgroundColor 100 30 15
 
-# Currency
+###
+### Currency
+###
 Show
 	BaseType "Chaos Orb" "Exalted Orb" "Orb of Regret" "Orb of Alchemy" "Orb of Scouring" "Orb of Chance" "Orb of Fusing"
   MinimapIcon 1 Orange Circle
