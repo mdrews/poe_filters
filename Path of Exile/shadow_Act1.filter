@@ -11,6 +11,7 @@ Show
   SetTextColor 200 200 200
   SetBackgroundColor 100 30 15
 
+
 ###
 ### Currency
 ###
@@ -36,6 +37,7 @@ Show
 	SetBackgroundColor 99 234 106 200
 	SetBorderColor 1 1 1
 	PlayAlertSound 2 175
+
 
 ###
 ### Maps
