@@ -15,6 +15,7 @@ Show
 ###
 ### Currency
 ###
+
 Show
 	BaseType "Chaos Orb" "Exalted Orb" "Orb of Regret" "Orb of Alchemy" "Orb of Scouring" "Orb of Chance" "Orb of Fusing"
   MinimapIcon 1 Orange Circle
