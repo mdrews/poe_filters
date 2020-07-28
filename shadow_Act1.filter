@@ -102,6 +102,10 @@ Show
   Quality 20
   SetTextColor 0 0 255
 
+###
+### Weapons
+###
+
 Show
   Class Wands
   LinkedSockets = 3
