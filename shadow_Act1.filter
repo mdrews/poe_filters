@@ -1,6 +1,7 @@
 # Filter for Shadow Act 1
 # based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
 
+
 Show
   Rarity = Unique
   MinimapIcon 0 Orange Star
@@ -51,6 +52,7 @@ Show
 	SetBackgroundColor 99 234 106 200
 	SetBorderColor 1 1 1
 	PlayAlertSound 2 175
+
 
 ###
 ### Flasks
