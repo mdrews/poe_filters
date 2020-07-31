@@ -35,6 +35,11 @@ Show
 	SetBackgroundColor 170 158 129
 	SetBorderColor 1 1 1
 
+
+###
+### Divination
+###
+
 Show
 	Class "Divination Card"
 	SetFontSize 36
