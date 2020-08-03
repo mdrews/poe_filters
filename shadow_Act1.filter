@@ -2,6 +2,8 @@
 # based on guide from Asmodeus at https://www.youtube.com/watch?v=V35rt19EoDg
 # Item Filter Guild: https://pathofexile.gamepedia.com/Item_filter
 
+
+
 ###
 ### Unique
 ###
@@ -102,6 +104,10 @@ Show
   SetBackgroundColor 210 0 220 170
 	SetBorderColor 1 1 1
   PlayAlertSound 6 300
+
+###
+### Jewelry
+###
 
 Show
 	Class "Rings" "Amulets" "Belts"
