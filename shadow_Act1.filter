@@ -122,7 +122,6 @@ Show
 
 Show
 	Class "Rings" "Amulets" "Belts"
-	SetTextColor 10 10 10
 	SetBackgroundColor 24 75 80 220
 	SetBorderColor 10 10 10
 
